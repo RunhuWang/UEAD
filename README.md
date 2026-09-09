@@ -110,7 +110,7 @@ python $NAVSIM_DEVKIT_ROOT/navsim/planning/script/run_pdm_score.py \
         agent.checkpoint_path=$CKPT \
         experiment_name=uead_agent_eval
 ```
-You can download the our provided [checkpoint](https://github.com/RunhuWang/UEAD/releases/download/v1.1/uead_epoch96_attfuse_87p1_58P1M.ckpt)
+You can download the our provided [checkpoint.](https://github.com/RunhuWang/UEAD/releases/download/v1.1/uead_epoch96_attfuse_87p1_58P1M.ckpt)
 ## Contact
 If you have any questions, please contact Runhu Wang via email (wz4119@hnu.edu.cn).
 
