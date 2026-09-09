@@ -55,7 +55,7 @@ End-to-end autonomous driving technology can learn driving policies from large-s
 
 ## Results on Town05Long benchmark
 
-https://github.com/user-attachments/assets/bd2364f3-73fd-4c29-b8b2-ead11f78926d
+https://github.com/RunhuWang/UEAD/releases/download/v1.0/output_video_HD.avi
 <div align="center">
 <b>Qualitative Comparison of CAM Visualizations between UEAD and the Baseline Method in a Pedestrian-Crossing Scenario.</b>
 <img src="assets/Visualization_carla.png" />
