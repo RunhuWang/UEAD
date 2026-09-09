@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/3936f454-96c2-4430-8a10-f9fe7ce611d1
-
 <div align="center">
 <h1>UEAD</h1>
 <h3>Unsupervised Edge Detection for Enhanced Target Boundary Perception in End-to-End Autonomous Driving</h3>
@@ -59,7 +55,7 @@ End-to-end autonomous driving technology can learn driving policies from large-s
 
 ## Results on Town05Long benchmark
 
-
+https://github.com/user-attachments/assets/3936f454-96c2-4430-8a10-f9fe7ce611d1
 
 <div align="center">
 <b>Qualitative Comparison of CAM Visualizations between UEAD and the Baseline Method in a Pedestrian-Crossing Scenario.</b>
@@ -114,7 +110,7 @@ python $NAVSIM_DEVKIT_ROOT/navsim/planning/script/run_pdm_score.py \
         agent.checkpoint_path=$CKPT \
         experiment_name=uead_agent_eval
 ```
-[you can download the our provided checkpoint](https://github.com/RunhuWang/UEAD/releases/download/v1.1/uead_epoch96_attfuse_87p1_58P1M.ckpt)
+You can download the our provided [checkpoint](https://github.com/RunhuWang/UEAD/releases/download/v1.1/uead_epoch96_attfuse_87p1_58P1M.ckpt)
 ## Contact
 If you have any questions, please contact Runhu Wang via email (wz4119@hnu.edu.cn).
 
