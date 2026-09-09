@@ -15,8 +15,8 @@ class TransfuserConfig:
 
     image_architecture: str = "resnet34"
     edge_architecture: str = "resnet34"
-    bkb_path: str = "/home/fqz02/.cache/huggingface/hub/checkpoints/resnet34.a1_in1k/pytorch_model.bin"
-    plan_anchor_path: str = "/home/fqz02/Works/WangRunhu/demo02/navsim_workspace/DiffusionDrive/kmeans_navsim_traj_20.npy"
+    bkb_path: str = "/xxxxx/resnet34.a1_in1k/pytorch_model.bin"
+    plan_anchor_path: str = "/xxxxxx/UEAD/kmeans_navsim_traj_20.npy"
     fuse_type: str = "attention"  # "attention"\"multiply"\"concat"\"add"
     edge: bool = True
     edge_weight = 0.00001
